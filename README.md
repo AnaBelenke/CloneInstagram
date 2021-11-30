@@ -1,2 +1,2 @@
-# CloneInstagram
+# Clone Instagram
 Recriando a página inicial do Instagram. 
